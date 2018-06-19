@@ -1,6 +1,7 @@
 # Flask
-# rest api using flask framework
 
-# just download and run using python rest.py
+rest api using flask framework
 
-# hit url from browser 
+just download and run using <python rest.py>
+
+hit url from browser 
